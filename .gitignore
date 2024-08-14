@@ -1,0 +1,7 @@
+#virtual env related
+env
+#build related
+build
+dist
+__pycache__
+*.egg-info
